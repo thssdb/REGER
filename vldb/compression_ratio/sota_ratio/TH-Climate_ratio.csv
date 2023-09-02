@@ -1,0 +1,19 @@
+Input Direction,Column Index,Encoding Algorithm,Compress Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,PLAIN,UNCOMPRESSED,14506800,1170600,131746,526984.0,1.0
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,TS_2DIFF,UNCOMPRESSED,2224399,2341500,131746,40325.0,0.0765203497639397
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,RLE,UNCOMPRESSED,9359101,2926800,131746,511067.0,0.9697960469388065
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,SPRINTZ,UNCOMPRESSED,26608400,2247099,131746,132676.0,0.2517647594613878
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,GORILLA,UNCOMPRESSED,8529700,2228100,131746,285317.0,0.5414149196180529
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,RLBE,UNCOMPRESSED,26845400,2738201,131746,35976.0,0.06826772729342827
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,RAKE,UNCOMPRESSED,82660999,4699,131746,767485.0,1.4563724894873469
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,CHIMP,UNCOMPRESSED,6710499,3941000,131746,165985.0,0.3149716120413523
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,0,BUFF,UNCOMPRESSED,18605399,4361700,131746,329381.0,0.6250303614530991
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,PLAIN,UNCOMPRESSED,13411800,1084600,131746,526984.0,1.0
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,TS_2DIFF,UNCOMPRESSED,2318499,1724100,131746,132416.0,0.2512713858485267
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,RLE,UNCOMPRESSED,5270400,1950000,131746,164894.0,0.3129013404581543
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,SPRINTZ,UNCOMPRESSED,26663799,2178900,131746,127330.0,0.24162023894463588
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,GORILLA,UNCOMPRESSED,2524600,1397200,131746,80323.0,0.15242018733016563
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,RLBE,UNCOMPRESSED,681796801,6375500,131746,209732.0,0.39798551758687173
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,RAKE,UNCOMPRESSED,151971300,3000,131746,335092.0,0.6358675026186753
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,CHIMP,UNCOMPRESSED,4447300,2478800,131746,150344.0,0.28529139404611903
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,1,BUFF,UNCOMPRESSED,8703400,2451800,131746,164699.0,0.3125313102485085

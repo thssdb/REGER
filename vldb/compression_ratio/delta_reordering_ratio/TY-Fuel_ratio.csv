@@ -1,0 +1,6 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel0.csv,Delta-Reordering,60029000,100,29730,62037.0,0.26083501513622603
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel1.csv,Delta-Reordering,49057100,0,29730,70798.0,0.29767070299360915
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel2.csv,Delta-Reordering,65871500,0,29730,58623.0,0.2464808274470232
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel3.csv,Delta-Reordering,65272400,0,29730,68344.0,0.2873528422468887
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel4.csv,Delta-Reordering,57425000,0,29730,78681.0,0.33081483350151364

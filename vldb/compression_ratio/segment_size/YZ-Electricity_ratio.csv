@@ -1,0 +1,5 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER,40282601400,0,10107,27532.0,6,0.3405065795982982
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER,118094083100,100,10107,26867.0,5,0.33228208172553675
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER,107915042100,100,10107,26581.0,4,0.32874492925695065
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER,78722312200,0,10107,26498.0,3,0.3277184129811022

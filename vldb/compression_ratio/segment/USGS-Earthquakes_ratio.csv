@@ -1,0 +1,4 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\USGS-Earthquakes\syndata_earthquakes0.csv,REGER,6476214600,0,75809,170790.0,0.28161234154256093
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\USGS-Earthquakes\syndata_earthquakes1.csv,REGER,9218555500,100,75809,180794.0,0.2981077444630585
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\USGS-Earthquakes\syndata_earthquakes2.csv,REGER,12523139600,100,75809,172782.0,0.2848969119761506

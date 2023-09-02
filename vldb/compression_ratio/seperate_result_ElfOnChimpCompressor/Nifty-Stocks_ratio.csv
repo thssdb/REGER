@@ -1,0 +1,11 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+/Nifty-Stocks/syndata_stocks0_time.csv,ElfOnChimpCompressor,114033.33333333333,123900.0,3000.0,75765.0,0.78921875
+/Nifty-Stocks/syndata_stocks0_value.csv,ElfOnChimpCompressor,91966.66666666667,94400.0,3000.0,49599.0,0.51665625
+/Nifty-Stocks/syndata_stocks1_time.csv,ElfOnChimpCompressor,114833.33333333333,120800.0,3000.0,75766.0,0.7892291666666666
+/Nifty-Stocks/syndata_stocks1_value.csv,ElfOnChimpCompressor,84800.0,87600.0,3000.0,48190.0,0.5019791666666666
+/Nifty-Stocks/syndata_stocks2_time.csv,ElfOnChimpCompressor,111966.66666666667,114600.0,3000.0,75766.0,0.7892291666666666
+/Nifty-Stocks/syndata_stocks2_value.csv,ElfOnChimpCompressor,89633.33333333333,91000.0,3000.0,48664.0,0.5069166666666667
+/Nifty-Stocks/syndata_stocks3_time.csv,ElfOnChimpCompressor,114600.0,114800.0,3000.0,75766.0,0.7892291666666666
+/Nifty-Stocks/syndata_stocks3_value.csv,ElfOnChimpCompressor,93033.33333333333,99200.0,3000.0,48909.0,0.50946875
+/Nifty-Stocks/syndata_stocks4_time.csv,ElfOnChimpCompressor,99133.33333333333,100400.0,3000.0,75766.0,0.7892291666666666
+/Nifty-Stocks/syndata_stocks4_value.csv,ElfOnChimpCompressor,77066.66666666667,78300.0,3000.0,46726.0,0.48672916666666666

@@ -1,0 +1,3 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+/YZ-Electricity/0_time.csv,ElfCompressor,111460.0,145600.0,10000.0,220419.0,0.688809375
+/YZ-Electricity/0_value.csv,ElfCompressor,98190.0,104700.0,10000.0,179312.0,0.56035

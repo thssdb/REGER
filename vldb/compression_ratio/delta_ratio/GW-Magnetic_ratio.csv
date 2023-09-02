@@ -1,0 +1,5 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\GW-Magnetic\syndata_magnetic0.csv,Delta,17893700,100,18353,38323.0,0.2610131858551735
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\GW-Magnetic\syndata_magnetic1.csv,Delta,51666900,0,58373,119028.0,0.2548866770595995
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\GW-Magnetic\syndata_magnetic2.csv,Delta,15519500,100,17785,36152.0,0.25409052572392465
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\GW-Magnetic\syndata_magnetic3.csv,Delta,110490500,100,58373,119028.0,0.2548866770595995

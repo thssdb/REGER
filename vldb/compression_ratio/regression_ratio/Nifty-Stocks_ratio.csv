@@ -1,0 +1,6 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Nifty-Stocks\syndata_stocks0.csv,Regression,5693300,100,3706,12354.0,0.4166891527253103
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Nifty-Stocks\syndata_stocks1.csv,Regression,6290100,100,3707,12322.0,0.41549770704073374
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Nifty-Stocks\syndata_stocks2.csv,Regression,5075000,100,3710,12322.0,0.41516172506738547
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Nifty-Stocks\syndata_stocks3.csv,Regression,7172500,0,3710,12290.0,0.4140835579514825
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Nifty-Stocks\syndata_stocks4.csv,Regression,6611700,0,3710,11970.0,0.4033018867924528

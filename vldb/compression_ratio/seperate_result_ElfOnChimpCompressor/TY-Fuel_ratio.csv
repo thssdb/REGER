@@ -1,0 +1,11 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+/TY-Fuel/syndata_fuel0_time.csv,ElfOnChimpCompressor,98806.89655172414,124400.0,29000.0,845629.0,0.9112381465517242
+/TY-Fuel/syndata_fuel0_value.csv,ElfOnChimpCompressor,71882.75862068965,83500.0,29000.0,426799.0,0.4599127155172414
+/TY-Fuel/syndata_fuel1_time.csv,ElfOnChimpCompressor,97689.6551724138,111300.0,29000.0,845629.0,0.9112381465517242
+/TY-Fuel/syndata_fuel1_value.csv,ElfOnChimpCompressor,85786.20689655172,105400.0,29000.0,469458.0,0.5058814655172413
+/TY-Fuel/syndata_fuel2_time.csv,ElfOnChimpCompressor,101289.6551724138,126600.0,29000.0,845629.0,0.9112381465517242
+/TY-Fuel/syndata_fuel2_value.csv,ElfOnChimpCompressor,86734.4827586207,139400.0,29000.0,434344.0,0.4680431034482759
+/TY-Fuel/syndata_fuel3_time.csv,ElfOnChimpCompressor,119096.55172413793,176700.0,29000.0,845629.0,0.9112381465517242
+/TY-Fuel/syndata_fuel3_value.csv,ElfOnChimpCompressor,79248.27586206897,96300.0,29000.0,539017.0,0.5808372844827586
+/TY-Fuel/syndata_fuel4_time.csv,ElfOnChimpCompressor,103451.72413793103,110000.0,29000.0,845629.0,0.9112381465517242
+/TY-Fuel/syndata_fuel4_value.csv,ElfOnChimpCompressor,77758.62068965517,130300.0,29000.0,540687.0,0.5826368534482759

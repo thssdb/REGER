@@ -1,0 +1,11 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Block Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,6943788800,0,10107,25926.0,13,0.32064410804392995
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,2050371300,100,10107,25418.0,12,0.31436133372909864
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,1755528000,0,10107,24376.0,11,0.30147422578411004
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,887126300,0,10107,23966.0,10,0.2964034827347383
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,421097500,0,10107,23326.0,9,0.2884881765113288
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,267104500,100,10107,22988.0,8,0.2843079054120906
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,131829700,0,10107,23092.0,7,0.28559414267339467
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,79701200,100,10107,24794.0,6,0.30664391016127435
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,65221200,0,10107,28046.0,5,0.346863559908974
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,REGER,48292900,100,10107,33798.0,4,0.418002374591867

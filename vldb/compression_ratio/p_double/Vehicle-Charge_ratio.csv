@@ -1,0 +1,10 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,p,Compressed Size,Compression Ratio
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,683956100,100,3395,1,11596.0,0.42695139911634755
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,751789600,100,3395,2,11803.0,0.43457290132547866
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,753553000,100,3395,3,11993.0,0.4415684830633284
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,793597900,0,3395,4,12253.0,0.4511413843888071
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,790627800,0,3395,5,12483.0,0.45960972017673046
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,812751200,0,3395,6,12643.0,0.46550073637702505
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,831344300,0,3395,7,12759.0,0.4697717231222386
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,949731500,0,3395,8,12986.0,0.4781296023564065
+E:\encoding-reorder-my\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER-64-DOUBLE,1005131100,0,3395,9,13126.0,0.4832842415316642

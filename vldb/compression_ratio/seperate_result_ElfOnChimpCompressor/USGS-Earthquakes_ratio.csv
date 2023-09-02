@@ -1,0 +1,7 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+/USGS-Earthquakes/syndata_earthquakes0_time.csv,ElfOnChimpCompressor,110654.66666666667,134700.0,75000.0,2258295.0,0.94095625
+/USGS-Earthquakes/syndata_earthquakes0_value.csv,ElfOnChimpCompressor,89542.66666666667,152500.0,75000.0,1291457.0,0.5381070833333333
+/USGS-Earthquakes/syndata_earthquakes1_time.csv,ElfOnChimpCompressor,119661.33333333333,175400.0,75000.0,2258295.0,0.94095625
+/USGS-Earthquakes/syndata_earthquakes1_value.csv,ElfOnChimpCompressor,89074.66666666667,101400.0,75000.0,1424279.0,0.5934495833333333
+/USGS-Earthquakes/syndata_earthquakes2_time.csv,ElfOnChimpCompressor,130040.0,210600.0,75000.0,2258295.0,0.94095625
+/USGS-Earthquakes/syndata_earthquakes2_value.csv,ElfOnChimpCompressor,103865.33333333333,163800.0,75000.0,1547954.0,0.6449808333333333

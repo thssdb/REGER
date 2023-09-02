@@ -1,0 +1,19 @@
+Input Direction,Column Index,Encoding Algorithm,Compress Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,PLAIN,UNCOMPRESSED,509300,61600,3395,13580.0,1.0
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,TS_2DIFF,UNCOMPRESSED,154800,142300,3395,7781.0,0.5729749631811487
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,RLE,UNCOMPRESSED,250599,121000,3395,13192.0,0.9714285714285714
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,SPRINTZ,UNCOMPRESSED,927601,152900,3395,7960.0,0.5861561119293078
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,GORILLA,UNCOMPRESSED,383800,141001,3395,11152.0,0.8212076583210604
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,RLBE,UNCOMPRESSED,28056700,261500,3395,7554.0,0.556259204712813
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,RAKE,UNCOMPRESSED,2867099,4901,3395,21763.0,1.602577319587629
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,CHIMP,UNCOMPRESSED,365800,127300,3395,7469.0,0.55
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,0,BUFF,UNCOMPRESSED,785101,142401,3395,10626.0,0.7824742268041237
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,PLAIN,UNCOMPRESSED,318900,30300,3395,13580.0,1.0
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,TS_2DIFF,UNCOMPRESSED,65599,55200,3395,5468.0,0.40265095729013256
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,RLE,UNCOMPRESSED,137301,53600,3395,5117.0,0.3768041237113402
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,SPRINTZ,UNCOMPRESSED,641700,88400,3395,5159.0,0.37989690721649483
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,GORILLA,UNCOMPRESSED,160200,57799,3395,5811.0,0.4279086892488954
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,RLBE,UNCOMPRESSED,22196001,345100,3395,11298.0,0.831958762886598
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,RAKE,UNCOMPRESSED,2946301,3500,3395,9587.0,0.7059646539027983
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,CHIMP,UNCOMPRESSED,234900,216699,3395,5131.0,0.37783505154639174
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,1,BUFF,UNCOMPRESSED,544501,98100,3395,5109.0,0.37621502209131075

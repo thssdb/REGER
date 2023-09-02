@@ -1,0 +1,10 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,p,Compressed Size,Compression Ratio
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,43009657100,100,100000,1,141855.0,0.17731875
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,65699919000,100,100000,2,149114.0,0.1863925
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,51640861800,100,100000,3,153464.0,0.19183
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,68296983400,100,100000,4,153364.0,0.191705
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,86238013900,0,100000,5,155445.0,0.19430625
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,68321639900,100,100000,6,160823.0,0.20102875
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,66699474500,0,100000,7,164203.0,0.20525375
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,67030247500,100,100000,8,166382.0,0.2079775
+E:\encoding-reorder-my\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-32-FLOAT,70780272200,0,100000,9,169562.0,0.2119525

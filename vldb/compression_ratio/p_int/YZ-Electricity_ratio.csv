@@ -1,0 +1,10 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,p,Compressed Size,Compression Ratio
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,144330900,100,10107,1,27018.0,0.33414959928762245
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,113524400,100,10107,2,31582.0,0.39059562679331156
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,121892700,100,10107,3,31815.0,0.3934772929652716
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,136123900,100,10107,4,32241.0,0.39874591867022857
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,168533100,100,10107,5,32265.0,0.3990427426536064
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,212111800,100,10107,6,32430.0,0.4010834075393292
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,201725100,100,10107,7,32584.0,0.4029880280993371
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,189079800,100,10107,8,32557.0,0.402654101118037
+C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0.csv,REGER-32-INT,205216700,100,10107,9,32705.0,0.40448451568220045

@@ -1,0 +1,5 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER,55749725300,100,99999,105424.0,6,0.13178131781317814
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER,51260772900,0,99999,103218.0,5,0.1290237902379024
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER,50676637700,100,99999,103572.0,4,0.12946629466294662
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER,46314873500,0,99999,108300.0,3,0.13537635376353763

@@ -1,0 +1,21 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport0.csv,REGER-Without-Reordering,152598700,0,51222,79256.0,6,0.19341298660731718
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport1.csv,REGER-Without-Reordering,210004300,0,51222,106810.0,6,0.2606546015384015
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport3.csv,REGER-Without-Reordering,151263900,0,29512,48024.0,6,0.20340878286798592
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport4.csv,REGER-Without-Reordering,173112900,0,29512,62566.0,6,0.26500237191650855
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport6.csv,REGER-Without-Reordering,182549300,0,34048,54678.0,6,0.20073866306390978
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport0.csv,REGER-Without-Reordering,236095700,0,51222,76798.0,5,0.18741458748194134
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport1.csv,REGER-Without-Reordering,184140300,0,51222,104836.0,5,0.2558373355198938
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport3.csv,REGER-Without-Reordering,142359000,0,29512,47392.0,5,0.200731905665492
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport4.csv,REGER-Without-Reordering,115692100,0,29512,62050.0,5,0.2628168202764977
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport6.csv,REGER-Without-Reordering,121329000,100,34048,53528.0,5,0.19651668233082706
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport0.csv,REGER-Without-Reordering,157191200,0,51222,75358.0,4,0.18390047245324276
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport1.csv,REGER-Without-Reordering,179482800,0,51222,103686.0,4,0.25303092421225254
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport3.csv,REGER-Without-Reordering,97439500,100,29512,46640.0,4,0.19754676063973978
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport4.csv,REGER-Without-Reordering,108597700,0,29512,61376.0,4,0.25996204933586337
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport6.csv,REGER-Without-Reordering,113862700,0,34048,52732.0,4,0.19359433740601503
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport0.csv,REGER-Without-Reordering,178966100,100,51222,75216.0,3,0.18355394166569053
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport1.csv,REGER-Without-Reordering,214353200,0,51222,103542.0,3,0.2526795127093827
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport3.csv,REGER-Without-Reordering,118273000,100,29512,46604.0,3,0.19739428029276226
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport4.csv,REGER-Without-Reordering,104471700,0,29512,61256.0,3,0.25945378151260506
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport6.csv,REGER-Without-Reordering,125975300,100,34048,52808.0,3,0.19387335526315788

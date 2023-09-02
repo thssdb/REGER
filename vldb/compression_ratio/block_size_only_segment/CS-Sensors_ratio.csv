@@ -1,0 +1,11 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Block Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,2968355900,100,100000,202578.0,13,0.2532225
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,822490800,0,100000,202310.0,12,0.2528875
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,384093700,100,100000,202722.0,11,0.2534025
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,200846300,100,100000,204034.0,10,0.2550425
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,113760100,0,100000,206734.0,9,0.2584175
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,79477900,0,100000,212450.0,8,0.2655625
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,62037900,100,100000,223758.0,7,0.2796975
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,51282100,0,100000,245890.0,6,0.3073625
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,62988300,0,100000,288962.0,5,0.3612025
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\CS-Sensors\test.csv,REGER-Without-Reordering,56633400,100,100000,349202.0,4,0.4365025

@@ -1,0 +1,21 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle0.csv,REGER-Without-Reordering,4903700,0,7280,19484.0,6,0.3345467032967033
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle1.csv,REGER-Without-Reordering,5884400,100,7280,14908.0,6,0.2559752747252747
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle2.csv,REGER-Without-Reordering,4239700,0,7280,15108.0,6,0.2594093406593407
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle3.csv,REGER-Without-Reordering,5367600,0,7280,15756.0,6,0.27053571428571427
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle4.csv,REGER-Without-Reordering,7981000,0,7280,18620.0,6,0.31971153846153844
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle0.csv,REGER-Without-Reordering,7188100,0,7280,19216.0,5,0.32994505494505494
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle1.csv,REGER-Without-Reordering,5418000,0,7280,14596.0,5,0.25061813186813187
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle2.csv,REGER-Without-Reordering,4261900,0,7280,14796.0,5,0.2540521978021978
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle3.csv,REGER-Without-Reordering,4515600,0,7280,15430.0,5,0.2649381868131868
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle4.csv,REGER-Without-Reordering,5308500,0,7280,18320.0,5,0.31456043956043955
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle0.csv,REGER-Without-Reordering,4796100,0,7280,19182.0,4,0.32936126373626373
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle1.csv,REGER-Without-Reordering,5421800,0,7280,14518.0,4,0.24927884615384616
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle2.csv,REGER-Without-Reordering,5119300,100,7280,14710.0,4,0.25257554945054944
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle3.csv,REGER-Without-Reordering,7612600,0,7280,15354.0,4,0.26363324175824177
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle4.csv,REGER-Without-Reordering,4624600,0,7280,18218.0,4,0.31280906593406593
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle0.csv,REGER-Without-Reordering,4942900,100,7280,19625.0,3,0.3369677197802198
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle1.csv,REGER-Without-Reordering,4572500,100,7280,14758.0,3,0.25339972527472526
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle2.csv,REGER-Without-Reordering,4665000,100,7280,14936.0,3,0.25645604395604393
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle3.csv,REGER-Without-Reordering,4745700,0,7280,15626.0,3,0.2683035714285714
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle4.csv,REGER-Without-Reordering,4705300,100,7280,18450.0,3,0.3167925824175824

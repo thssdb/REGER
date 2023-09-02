@@ -1,0 +1,19 @@
+Input Direction,Column Index,Encoding Algorithm,Compress Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,PLAIN,UNCOMPRESSED,831800,78500,10107,40428.0,1.0
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,TS_2DIFF,UNCOMPRESSED,171500,131100,10107,7532.0,0.18630652023350153
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,RLE,UNCOMPRESSED,387300,167900,10107,39230.0,0.9703670723261106
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,SPRINTZ,UNCOMPRESSED,1783400,189300,10107,15568.0,0.38507964776887305
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,GORILLA,UNCOMPRESSED,557300,184500,10107,22632.0,0.5598100326506382
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,RLBE,UNCOMPRESSED,24764500,356400,10107,12933.0,0.3199020480854853
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,RAKE,UNCOMPRESSED,8862600,2300,10107,72144.0,1.7845057880676758
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,CHIMP,UNCOMPRESSED,792500,459200,10107,15209.0,0.3761996635994855
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,0,BUFF,UNCOMPRESSED,2155700,673200,10107,25284.0,0.6254081329771446
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,PLAIN,UNCOMPRESSED,877400,82000,10107,40428.0,1.0
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,TS_2DIFF,UNCOMPRESSED,217500,154900,10107,16503.0,0.4082071831403977
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,RLE,UNCOMPRESSED,339000,159700,10107,19006.0,0.4701197190066291
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,SPRINTZ,UNCOMPRESSED,1774200,259900,10107,15473.0,0.38272979123379836
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,GORILLA,UNCOMPRESSED,580400,305200,10107,21092.0,0.5217176214504798
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,RLBE,UNCOMPRESSED,56204200,836600,10107,33113.0,0.8190610467992481
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,RAKE,UNCOMPRESSED,6543500,2600,10107,33779.0,0.8355347778767191
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,CHIMP,UNCOMPRESSED,713100,433900,10107,17269.0,0.42715444741268427
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\YZ-Electricity\0a.csv,1,BUFF,UNCOMPRESSED,1496300,337000,10107,17704.0,0.4379143168101316

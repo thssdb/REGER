@@ -1,0 +1,21 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel0.csv,REGER-Without-Reordering,12219800,0,29730,71208.0,6,0.29939455095862766
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel1.csv,REGER-Without-Reordering,14746800,0,29730,79456.0,6,0.33407332660612177
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel2.csv,REGER-Without-Reordering,12925500,100,29730,66512.0,6,0.2796501849983182
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel3.csv,REGER-Without-Reordering,14202800,100,29730,76168.0,6,0.32024890682811974
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel4.csv,REGER-Without-Reordering,13200300,0,29730,86208.0,6,0.3624621594349142
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel0.csv,REGER-Without-Reordering,19652800,0,29730,69212.0,5,0.29100235452404977
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel1.csv,REGER-Without-Reordering,23644300,0,29730,77572.0,5,0.3261520349815002
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel2.csv,REGER-Without-Reordering,14133500,0,29730,64856.0,5,0.2726875210225362
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel3.csv,REGER-Without-Reordering,14764400,0,29730,74216.0,5,0.312041708711739
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel4.csv,REGER-Without-Reordering,15352800,0,29730,84444.0,5,0.3550454086781029
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel0.csv,REGER-Without-Reordering,13514000,0,29730,67906.0,4,0.2855112680793811
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel1.csv,REGER-Without-Reordering,13606600,0,29730,76248.0,4,0.32058526740665994
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel2.csv,REGER-Without-Reordering,17669300,100,29730,63638.0,4,0.2675664312142617
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel3.csv,REGER-Without-Reordering,18660500,0,29730,72944.0,4,0.3066935755129499
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel4.csv,REGER-Without-Reordering,24106300,100,29730,83164.0,4,0.3496636394214598
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel0.csv,REGER-Without-Reordering,25397800,0,29730,67892.0,3,0.28545240497813656
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel1.csv,REGER-Without-Reordering,16424800,0,29730,76245.0,3,0.3205726538849647
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel2.csv,REGER-Without-Reordering,13904400,0,29730,63846.0,3,0.2684409687184662
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel3.csv,REGER-Without-Reordering,13878200,0,29730,73169.0,3,0.3076395896400942
+C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Fuel\syndata_fuel4.csv,REGER-Without-Reordering,21874000,100,29730,83337.0,3,0.350391019172553

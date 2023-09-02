@@ -1,0 +1,3 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+/Metro-Traffic/syndata_metro_time.csv,ElfCompressor,115772.91666666667,168400.0,48000.0,768385.0,0.5002506510416667
+/Metro-Traffic/syndata_metro_value.csv,ElfCompressor,96358.33333333333,175500.0,48000.0,801998.0,0.5221341145833334

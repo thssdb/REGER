@@ -1,0 +1,11 @@
+Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
+/Cyber-Vehicle/syndata_vehicle0_time.csv,ElfCompressor,193314.2857142857,316000.0,7000.0,154102.0,0.6879553571428572
+/Cyber-Vehicle/syndata_vehicle0_value.csv,ElfCompressor,114628.57142857143,117800.0,7000.0,92656.0,0.41364285714285715
+/Cyber-Vehicle/syndata_vehicle1_time.csv,ElfCompressor,111314.28571428571,136200.0,7000.0,154102.0,0.6879553571428572
+/Cyber-Vehicle/syndata_vehicle1_value.csv,ElfCompressor,175385.7142857143,324500.0,7000.0,73209.0,0.32682589285714286
+/Cyber-Vehicle/syndata_vehicle2_time.csv,ElfCompressor,112028.57142857143,113600.0,7000.0,154102.0,0.6879553571428572
+/Cyber-Vehicle/syndata_vehicle2_value.csv,ElfCompressor,86185.71428571429,93900.0,7000.0,76371.0,0.34094196428571427
+/Cyber-Vehicle/syndata_vehicle3_time.csv,ElfCompressor,111785.71428571429,112900.0,7000.0,154102.0,0.6879553571428572
+/Cyber-Vehicle/syndata_vehicle3_value.csv,ElfCompressor,104271.42857142857,119600.0,7000.0,95706.0,0.42725892857142855
+/Cyber-Vehicle/syndata_vehicle4_time.csv,ElfCompressor,119900.0,139800.0,7000.0,154102.0,0.6879553571428572
+/Cyber-Vehicle/syndata_vehicle4_value.csv,ElfCompressor,93885.71428571429,99800.0,7000.0,83432.0,0.3724642857142857
