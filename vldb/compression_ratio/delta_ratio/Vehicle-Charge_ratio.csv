@@ -1,2 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,Delta,6159700,0,3395,13644.0,0.5023564064801178

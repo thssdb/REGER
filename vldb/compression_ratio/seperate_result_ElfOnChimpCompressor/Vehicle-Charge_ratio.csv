@@ -1,3 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-/Vehicle-Charge/electric_vehicle_charging_time.csv,ElfOnChimpCompressor,123700.0,124500.0,3000.0,94884.0,0.988375
-/Vehicle-Charge/electric_vehicle_charging_value.csv,ElfOnChimpCompressor,96700.0,98500.0,3000.0,64904.0,0.6760833333333334

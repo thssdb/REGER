@@ -1,2 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,Regression-Reordering,131708100,100,48203,96676.0,0.2507001638902143

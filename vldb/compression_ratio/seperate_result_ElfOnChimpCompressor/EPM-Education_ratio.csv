@@ -1,7 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-/EPM-Education/epm_0_time.csv,ElfOnChimpCompressor,145878.78787878787,228300.0,99000.0,3007350.0,0.9492897727272728
-/EPM-Education/epm_0_value.csv,ElfOnChimpCompressor,119726.26262626263,217500.0,99000.0,2222710.0,0.7016130050505051
-/EPM-Education/epm_1_time.csv,ElfOnChimpCompressor,112023.23232323233,264100.0,99000.0,3008770.0,0.9497380050505051
-/EPM-Education/epm_1_value.csv,ElfOnChimpCompressor,97146.46464646465,185500.0,99000.0,2277740.0,0.7189835858585859
-/EPM-Education/epm_2_time.csv,ElfOnChimpCompressor,117676.0,170300.0,25000.0,759354.0,0.9491925
-/EPM-Education/epm_2_value.csv,ElfOnChimpCompressor,96376.0,158300.0,25000.0,572406.0,0.7155075

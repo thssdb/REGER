@@ -1,2 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,Regression,323628400,100,131746,163977.0,0.15558062483870477

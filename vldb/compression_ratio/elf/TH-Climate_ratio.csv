@@ -1,3 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-/TH-Climate/syndata_climate0_time.csv,ElfCompressor,101998.47328244275,204900.0,131000.0,2887200.0,0.6887404580152672
-/TH-Climate/syndata_climate0_value.csv,ElfCompressor,81725.19083969465,122100.0,131000.0,967666.0,0.23083635496183205

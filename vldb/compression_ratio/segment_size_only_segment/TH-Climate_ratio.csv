@@ -1,5 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER-Without-Reordering,282631700,100,131746,247808.0,6,0.2351190927997814
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER-Without-Reordering,243662400,0,131746,244682.0,5,0.23215315835015865
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER-Without-Reordering,299218100,100,131746,245808.0,4,0.23322150198108482
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER-Without-Reordering,330608100,0,131746,248781.0,3,0.2360422707330773

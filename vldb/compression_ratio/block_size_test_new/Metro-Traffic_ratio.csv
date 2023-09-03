@@ -1,8 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Block Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,9150605300,0,48203,171694.0,10,0.445236810986868
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,4584933200,0,48203,180323.0,9,0.46761353027819846
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,2475460400,0,48203,182058.0,8,0.4721127315727237
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,1347636100,0,48203,188843.0,7,0.48970759081384974
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,902873700,100,48203,199457.0,6,0.517231811298052
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,673185700,100,48203,220626.0,5,0.5721272534904467
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,633642500,100,48203,258288.0,4,0.6697923365765617

@@ -1,5 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER,356002300,100,3395,11480.0,6,0.422680412371134
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER,618876100,0,3395,11394.0,5,0.4195139911634757
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER,395709600,0,3395,11394.0,4,0.4195139911634757
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Vehicle-Charge\electric_vehicle_charging.csv,REGER,365700200,100,3395,11521.0,3,0.4241899852724595

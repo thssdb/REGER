@@ -1,6 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport0.csv,Delta,99242300,0,51222,57604.0,0.14057436257857953
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport1.csv,Delta,119663700,100,51222,83168.0,0.20295966576861504
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport3.csv,Delta,59509000,0,29512,36114.0,0.1529632014095961
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport4.csv,Delta,58434000,100,29512,50266.0,0.21290492003252914
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TY-Transport\syndata_transport6.csv,Delta,62718800,100,34048,41260.0,0.15147732612781956

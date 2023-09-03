@@ -1,3 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-/CS-Sensors/test_time.csv,ElfCompressor,140365.0,1026600.0,100000.0,1170988.0,0.36593375
-/CS-Sensors/test_value.csv,ElfCompressor,132452.0,428300.0,100000.0,1690604.0,0.52831375

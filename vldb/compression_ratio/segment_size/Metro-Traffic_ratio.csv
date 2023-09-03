@@ -1,5 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Segment Size,Compression Ratio
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,119107320399,101,48203,103702.0,6,0.26891998423334645
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,15188685000,100,48203,97876.0,5,0.2538120034022779
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,10396556200,0,48203,93772.0,4,0.2431695122710205
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,REGER,6509949401,0,48203,92863.0,3,0.24081229384063232

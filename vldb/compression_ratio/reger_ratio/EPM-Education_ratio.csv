@@ -1,4 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\EPM-Education\epm_0.csv,Regression-Reordering,448981200,0,99999,312652.0,0.3908189081890819
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\EPM-Education\epm_1.csv,Regression-Reordering,340976700,0,99999,293008.0,0.36626366263662635
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\EPM-Education\epm_2.csv,Regression-Reordering,95457100,0,25224,78658.0,0.3897974151601649

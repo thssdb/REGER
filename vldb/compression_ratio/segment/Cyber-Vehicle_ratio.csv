@@ -1,6 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle0.csv,REGER,479800600,0,7280,15152.0,0.2601648351648352
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle1.csv,REGER,321503600,100,7280,14358.0,0.24653159340659342
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle2.csv,REGER,392983200,0,7280,13802.0,0.2369848901098901
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle3.csv,REGER,365209300,100,7280,14905.0,0.25592376373626374
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Cyber-Vehicle\syndata_vehicle4.csv,REGER,450730900,100,7280,17866.0,0.3067651098901099

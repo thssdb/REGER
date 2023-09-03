@@ -1,2 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\Metro-Traffic\syndata_metro.csv,Delta-Reordering,4176863800,0,48203,96116.0,0.24924797211791797

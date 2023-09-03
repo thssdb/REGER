@@ -1,8 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Block Size,Compression Ratio
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,19862625000,100,131746,440821.0,10,0.41824894114432315
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,7658160400,100,131746,427921.0,9,0.4060094803637302
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,6690936300,0,131746,441215.0,8,0.41862276653560637
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,2831844800,100,131746,445779.0,7,0.422953068783872
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,2277759500,100,131746,462589.0,6,0.4389023196150168
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,1583794700,100,131746,511292.0,5,0.48511150243650664
-C:\Users\xiaoj\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\TH-Climate\syndata_climate0.csv,REGER,1290629900,100,131746,610778.0,4,0.5795033625309307

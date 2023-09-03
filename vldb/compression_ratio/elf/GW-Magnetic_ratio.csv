@@ -1,9 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,Compressed Size,Compression Ratio
-/GW-Magnetic/syndata_magnetic0_time.csv,ElfCompressor,114250.0,192600.0,18000.0,397069.0,0.6893559027777778
-/GW-Magnetic/syndata_magnetic0_value.csv,ElfCompressor,97155.55555555556,169200.0,18000.0,167777.0,0.2912795138888889
-/GW-Magnetic/syndata_magnetic1_time.csv,ElfCompressor,114356.89655172414,220500.0,58000.0,1278812.0,0.6890150862068966
-/GW-Magnetic/syndata_magnetic1_value.csv,ElfCompressor,81339.6551724138,136200.0,58000.0,351430.0,0.1893480603448276
-/GW-Magnetic/syndata_magnetic2_time.csv,ElfCompressor,108517.64705882352,128900.0,17000.0,374953.0,0.6892518382352941
-/GW-Magnetic/syndata_magnetic2_value.csv,ElfCompressor,103458.82352941176,175400.0,17000.0,154568.0,0.28413235294117645
-/GW-Magnetic/syndata_magnetic3_time.csv,ElfCompressor,111220.68965517242,185800.0,58000.0,1278812.0,0.6890150862068966
-/GW-Magnetic/syndata_magnetic3_value.csv,ElfCompressor,82096.55172413793,153400.0,58000.0,351430.0,0.1893480603448276

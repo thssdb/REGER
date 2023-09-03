@@ -1,4 +1,0 @@
-Input Direction,Encoding Algorithm,Encoding Time,Decoding Time,Points,p,Compressed Size,Compression Ratio
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\EPM-Education\epm_0.csv,REGER-32-FLOAT,27261764400,100,99999,1,175087.0,0.2188609386093861
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\EPM-Education\epm_1.csv,REGER-32-FLOAT,19154524300,0,99999,1,178713.0,0.22339348393483935
-C:\Users\Jinnsjao Shawl\Documents\GitHub\encoding-reorder\reorder\iotdb_test_small\EPM-Education\epm_2.csv,REGER-32-FLOAT,4786871700,100,25224,1,44283.0,0.21944873929590866
