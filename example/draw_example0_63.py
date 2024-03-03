@@ -2,6 +2,10 @@ import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
+from scipy.optimize import curve_fit
+import matplotlib.ticker as mticker
+from matplotlib.ticker import MaxNLocator
+# from IPython.display import Latex
 
 plt.rc('axes.formatter', useoffset=False)
 
@@ -10,10 +14,10 @@ np.set_printoptions(suppress=True)
 plt.style.use('ggplot')
 sns.set_theme(style="ticks", palette="pastel")
 
-fig, ax_arr = plt.subplots(3,2,figsize=(12,17))
+fig, ax_arr = plt.subplots(3,2,figsize=(12,13))
 my_palette=["#1178b4", "#33a02c","#e31a1c", "#ff7f00"]#,"#6a3d9a","#fb9a99", "#814a19"]
 fig.subplots_adjust(hspace=0.35)
-fig.subplots_adjust(wspace=0.45)
+fig.subplots_adjust(wspace=0.35)
 
 df1 = pd.read_csv("./result_evaluation/example100/100_timeorder_time.csv")
 df2 = pd.read_csv("./result_evaluation/example100/100_timeorder_value.csv")
@@ -21,9 +25,9 @@ df3 = pd.read_csv("./result_evaluation/example100/100_valueorder_time.csv")
 df4 = pd.read_csv("./result_evaluation/example100/100_valueorder_value.csv")
 df5 = pd.read_csv("./result_evaluation/example100/100_reorder_reverse_move_time.csv")
 df6 = pd.read_csv("./result_evaluation/example100/100_reorder_reverse_move_value.csv")
-fontsize = 25
+fontsize = 20
 
-data_number = 100
+data_number = 100 #1000 #10000 #len(df1)
 df1=df1[0:data_number]
 df2=df2[0:data_number]
 df3=df3[0:data_number]
@@ -32,7 +36,9 @@ df5=df5[0:data_number]
 df6=df6[0:data_number]
 
 a_list=[]
-b_list=[32,33,40,41,42,43,44,45,52,53,54,55,59,60,61,62,67,68,69,70,71,75,76,77,78,83,84,85,86,93,94,95,96,97]
+b_list=[33,39,40,41,42,43,44,45,52,53,54,55,59,60,61,62,67,68,69,70,71,75,76,77,78,83,84,85,86,93,94,95,96,97]
+# for i in range(len(b_list)):
+#     b_list[i]=100-b_list[i]
 for i in range(1,100):
     if i not in b_list:
         a_list.append(i)
@@ -49,6 +55,8 @@ f.yaxis.label.set_size(fontsize)
 f.set_title("(a) Time Order").set_fontsize(fontsize)
 f.set_xlabel("Order")
 f.set_ylabel("Time (+1,634,662,800ms)")
+f.yaxis.set_major_locator(MaxNLocator(nbins=3)) 
+f.set_ylim(-20,530)
 
 f=sns.lineplot(x='Order',y='Value',linewidth = 3,data=df2,color="#3c78d8",dashes=False,ax=ax_arr[0][1])
 for i in range(len(b_list)):
@@ -78,6 +86,8 @@ f.yaxis.label.set_size(fontsize)
 f.set_title("(c) Value Order").set_fontsize(fontsize)
 f.set_xlabel("Order")
 f.set_ylabel("Time (+1,634,662,800ms)")
+f.yaxis.set_major_locator(MaxNLocator(nbins=3)) 
+f.set_ylim(-20,530)
 
 f=sns.lineplot(x='Order',y='Value',linewidth = 3,data=df4,color="#3c78d8",dashes=False,ax=ax_arr[1][1])
 for i in range(len(b_list)):
@@ -107,6 +117,8 @@ f.yaxis.label.set_size(fontsize)
 f.set_title("(e) REGER Order").set_fontsize(fontsize)
 f.set_xlabel("Order")
 f.set_ylabel("Time (+1,634,662,800ms)")
+f.yaxis.set_major_locator(MaxNLocator(nbins=3)) 
+f.set_ylim(-20,530)
 
 f=sns.lineplot(x='Order',y='Value',linewidth = 3,data=df6,color="#3c78d8",dashes=False,ax=ax_arr[2][1])
 for i in range(len(b_list)):

@@ -8,31 +8,23 @@ To enable reproductivity, we share all datasets, algorithms and codes in the rep
 
     ├── README.md           // Help Document
     
-    ├── compression_ratio  // Results
+    ├── vldb             // Codes and datasets
     
-    │    ├── p_float_vary_p   // Result
+    │   ├── data_draw       // Example data of Figure 9
     
-    │    ├── pack_size_float   // Result
+    │   ├── iotdb_datasets_lists      // Datasets of all the experiments
     
-    │    ├── regulr_float   // Result
+    │   ├── figs      // Results of the experiments
     
-    │    ├── sota_ratio   // Result
+    │       ├── 0901       // Results of the example
     
-    ├── data_draw  // Data for drawing some figures
-    
-    ├── example  // Results
-    
-    │    ├── result_evaluation   // Example
+    │           ├── result_evaluation         // Example
 
-    |         ├── example100     // Datasets of examples
+    |               ├── example100         // Datasets of all the examples
     
-    │    └── other .py // // Codes of drawing examples
+    │           └── other .py // // Codes of drawing examples
     
-    ├── figs  // Figures
-    
-    ├── iotdb_datasets_lists      // Datasets of all the experiments
-    
-    └── other .py       // codes of drawing results
+    │   └── other .py       // codes of drawing results
 
 ## 2. Environment Requirement
 
@@ -52,8 +44,14 @@ java  xxx.java
 
 | algorithms                         | java code                                                                        |
 | ---------------------------------- |----------------------------------------------------------------------------------|
-| Regression Reordering        | iotdb\iotdb-core\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\REGERFloatTest.java           |
-| Varying p  | iotdb\iotdb-core\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\REGERPFloatTest.java  |
+| Regression Reordering        | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\Reger.java           |
+| Varying block size  | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\RegerBlockSize.java  |
+| Varying blocksize without reordering  | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\RegerBlockSizeWithoutReordering.java|
+| Varying packsize | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\RegerPackSize.java |
+| Varying packsize without reordering | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\RegerPackSizeWithoutReordering.java |
+| Double for regression parameters | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\RegerPDouble.java |
+| REGER-64-DOUBLE varying block size | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\RegerPFloat.java |
+| Float for regression parameters   | iotdb\tsfile\src\test\java\org\apache\iotdb\tsfile\encoding\decoder\EncodeTest.java |
 
 - Get figures about xxx.py
 
@@ -65,19 +63,19 @@ python xxx.py
 
 | Figures   | python code                                                                     |
 | --------- | ----------------------------------------------------------------------------- |
-| Figure 1  | draw_example0_63.py                                                     |
+| Figure 1  | draw_example0_6.py                                                     |
 | Figure 2  | draw_example2_5.py                                                            |
 | Figure 3  |                                                              |
-| Figure 4  | draw_example3_2.py                                                              |
+| Figure 4  | draw_example3.py                                                              |
 | Figure 5  | draw_distribution.py                                                          |
 | Figure 6  |                                                 |
-| Figure 7  | draw_examplea2.py                                                          |
+| Figure 7  | draw_examplea.py                                                          |
 | Figure 8  |                                                           |
 | Figure 9  | draw_dataall_value_subgraph.py                             |
-| Figure 10 | avg_transform_draw.py<br/>draw_compression_ratio.py                          |
-| Figure 11 | avg_transform_draw.py<br/>draw_compression_ratio.py                   |
-| Figure 12 | avg_transform_draw.py<br/>draw_compression_ratio.py                   |
-| Figure 13 | avg_float_block_size.py<br/>draw_block_size_float.py                |
-| Figure 14 | avg_float_pack_size.py<br/>draw_pack_size_float.py     
-| Figure 15 | avg_transform_draw_p.py<br/>draw_p.py       
+| Figure 10 | avg_transform_draw.py<br/> draw_compression_ratio.py                          |
+| Figure 11 | avg_transform_draw_block_size.py<br/>draw_block_size.py                   |
+| Figure 12 | avg_transform_draw_pack_size.py<br/>draw_pack_size.py                   |
+| Figure 13 | avg_transform_draw_p.py<br/>draw_p.py                   |
 
+
+- 

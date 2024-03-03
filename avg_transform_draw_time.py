@@ -1,12 +1,13 @@
 import os
 import pandas as pd
 
-dir_r = ["EPM-Education","GW-Magnetic","Metro-Traffic", "Nifty-Stocks", "USGS-Earthquakes", 
-         "CS-Sensors", "Cyber-Vehicle", "TH-Climate", "TY-Fuel","TY-Transport","FANYP-Sensors","TRAJET-Transport"]
+dir_r = ["EPM-Education","GW-Magnetic","Metro-Traffic", "Nifty-Stocks", "USGS-Earthquakes", "Vehicle-Charge",
+         "CS-Sensors", "Cyber-Vehicle", "TH-Climate", "TY-Fuel","TY-Transport","YZ-Electricity","FANYP-Sensors","TRAJET-Transport"]
 
 path_ratio = './compression_ratio/sota_ratio/' 
 path_rr_ratio =  './compression_ratio/elf/'  
 path_remove_value =  './compression_ratio/reger_float/'  
+path_tods_ratio =  './compression_ratio/tods_ratio/'
 
 df_result = pd.DataFrame(columns=['Encoding','Dataset','Encoding Time'])
 result_count = 0
@@ -37,7 +38,12 @@ for j in range(len(dir_r)):
     df_avg_pfor = df_pfor.groupby(by = df_pfor['Encoding Algorithm'], as_index=False).agg(lambda x: x.mean() if pd.api.types.is_numeric_dtype(x) else x)
     len_pfor_df = df_avg_pfor.shape[0]
 
-
+    dir_ratio_tods = path_tods_ratio + dir_r[j] + "_ratio.csv"
+    df_tods = pd.read_csv(dir_ratio_tods)
+    for k in range(df_tods.shape[0]):
+        df_tods.loc[k,"Encode"] = df_tods.iloc[k,4] / df_tods.iloc[k,6]
+    df_avg_tods = df_tods.groupby(by = df_tods['Encoding Algorithm'], as_index=False).agg(lambda x: x.mean() if pd.api.types.is_numeric_dtype(x) else x)      
+    len_tods_df = df_avg_tods.shape[0]
 
 
     for i in range(len_6_df):
@@ -57,12 +63,14 @@ for j in range(len(dir_r)):
         df_result.loc[result_count] = [df_avg_pfor.iloc[i,0],dir_r[j],cr]
         result_count += 1
 
-
+    for i in range(len_tods_df):
+        cr = df_avg_tods.iloc[i,-1]
+        df_result.loc[result_count] = [df_avg_tods.iloc[i,0],dir_r[j],cr]
+        result_count += 1
 
 
 df_result.to_csv("./compression_ratio/encode_time.csv",index=False)
 
-# dir_r = ["EPM-Education","GW-Magnetic","Metro-Traffic", "Nifty-Stocks", "USGS-Earthquakes", "Vehicle-Charge","CS-Sensors", "Cyber-Vehicle", "TH-Climate", "TY-Fuel","TY-Transport","YZ-Electricity"]
 
 df_result = pd.DataFrame(columns=['Encoding','Dataset','Decoding Time'])
 result_i = 0
@@ -93,6 +101,12 @@ for j in range(len(dir_r)):
     df_avg_pfor = df_pfor.groupby(by = df_pfor['Encoding Algorithm'], as_index=False).agg(lambda x: x.mean() if pd.api.types.is_numeric_dtype(x) else x)
     len_pfor_df = df_avg_pfor.shape[0]
 
+    dir_ratio_tods = path_tods_ratio + dir_r[j] + "_ratio.csv"
+    df_tods = pd.read_csv(dir_ratio_tods)
+    for k in range(df_tods.shape[0]):
+        df_tods.loc[k,"Encode"] = df_tods.iloc[k,5] / df_tods.iloc[k,6]
+    df_avg_tods = df_tods.groupby(by = df_tods['Encoding Algorithm'], as_index=False).agg(lambda x: x.mean() if pd.api.types.is_numeric_dtype(x) else x)      
+    len_tods_df = df_avg_tods.shape[0]
 
 
     for i in range(len_6_df):
@@ -111,6 +125,10 @@ for j in range(len(dir_r)):
         cr = df_avg_pfor.iloc[i,-1]
         df_result.loc[result_count] = [df_avg_pfor.iloc[i,0],dir_r[j],cr]
         result_count += 1
-        
+    
+    for i in range(len_tods_df):
+        cr = df_avg_tods.iloc[i,-1]
+        df_result.loc[result_count] = [df_avg_tods.iloc[i,0],dir_r[j],cr]
+        result_count += 1
 
 df_result.to_csv("./compression_ratio/decode_time.csv",index=False)
