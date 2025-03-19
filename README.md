@@ -94,3 +94,7 @@ python xxx.py
 | Figure 15 | avg_transform_draw.py<br/>draw_compression_ratio.py       |
 | Figure 16 | avg_transform_draw_time.py<br/>draw_time.py       |
 | Figure 17 | avg_float_block_size.py<br/>draw_block_size_float.py       |
+
+## 4. Summary
+
+https://metaso.cn/s/5oAHkG4
